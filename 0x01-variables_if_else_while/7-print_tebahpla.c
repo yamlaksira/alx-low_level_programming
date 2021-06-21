@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * main - main block
- * Description: print the alphabet in reverse order in lowercase.
- * Return : 0
+ * Description: Print the alphabet in reverse order in lowercase.
+ * Return: 0
  */
 int main(void)
 {
