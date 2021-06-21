@@ -22,7 +22,7 @@ int main(void)
       k = (i / 10) % 10;
       l = i % 10;
 
-      if (j < k && k < 1)
+      if (j < k && k < l)
 	{
 	  putchar(j + '0');
 	  putchar(k + '0');
