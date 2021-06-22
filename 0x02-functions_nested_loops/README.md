@@ -7,3 +7,4 @@
 # 5-sign.c
 # 6-abs.c
 # 7-print_last_digit.c
+# 8-24_hours.c
