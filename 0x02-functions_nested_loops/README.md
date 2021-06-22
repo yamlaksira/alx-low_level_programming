@@ -6,3 +6,4 @@
 # 4-isalpha.c
 # 5-sign.c
 # 6-abs.c
+# 7-print_last_digit.c
