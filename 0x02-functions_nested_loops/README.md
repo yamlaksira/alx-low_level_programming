@@ -9,3 +9,4 @@
 # 7-print_last_digit.c
 # 8-24_hours.c
 # 9-times_tables.c
+# 10-add.c
