@@ -12,3 +12,4 @@
 # 8-print_square.c
 # 8-print_square.c
 # 9-fizz_buzz.c
+# 10-print_triangle.c
