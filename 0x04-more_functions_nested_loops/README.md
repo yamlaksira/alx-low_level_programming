@@ -8,3 +8,4 @@
 # 5-more_numbers.c
 # 6-print_line.c
 # 7-print_diagonal.c
+# 8-print_square.c
