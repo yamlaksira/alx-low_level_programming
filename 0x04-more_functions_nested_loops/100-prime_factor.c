@@ -33,7 +33,7 @@ n = n / i;
 if (n > 2)
 max = n;
 
-printf("%ld\n", max);
+printf("%1d\n", max);
 
 return (0);
 }
