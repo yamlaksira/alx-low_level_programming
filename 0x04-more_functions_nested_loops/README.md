@@ -10,3 +10,4 @@
 # 7-print_diagonal.c
 # 8-print_square.c
 # 8-print_square.c
+# 8-print_square.c
