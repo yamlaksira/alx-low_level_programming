@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
- * print_trianglr - print a triangle, followed by a new line
+ * print_triangle - print a triangle aligned right, using '#'
  * @size: size of the triangle
  */
 void print_triangle(int size)
@@ -12,6 +12,7 @@ _putchar('\n');
 else
 {
 int i, j;
+
 for (i = 1; i <= size; i++)
 {
 for (j = i; j < size; j++)
