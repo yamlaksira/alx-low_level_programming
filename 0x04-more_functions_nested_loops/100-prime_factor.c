@@ -3,10 +3,11 @@
 /**
  * main - main block
  * Description: finds and prints the largest prime factore of the number 612852475143
- * Return: 0
+ * Return: always 0
  */
 int main(void)
 {
+
 long int n;
 long int max;
 long int i;
