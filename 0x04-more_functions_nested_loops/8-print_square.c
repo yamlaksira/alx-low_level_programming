@@ -4,7 +4,7 @@
  * @size: size of square
  * Description: can only use _putchar to print. use '#' to print square.
  */
-oid pribt_square(int size)
+void pribt_square(int size)
 {
 if (size <= 0)
 {
