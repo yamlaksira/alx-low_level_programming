@@ -11,3 +11,4 @@
 # 101-print_number.c
 # 101-print_number.c
 # 101-print_number.c
+# 102-magic.c
