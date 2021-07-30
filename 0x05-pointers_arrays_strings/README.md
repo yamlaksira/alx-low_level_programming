@@ -7,3 +7,4 @@
 # 5-rev_string.c
 # 6-puts2.c
 # 7-puts_half.c
+# 8-print_array.c
